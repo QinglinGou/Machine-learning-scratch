@@ -8,10 +8,10 @@ efficient as possible
 ## Supervised Learning
 
 - [Decision Tree](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/decision_tree.py)
-- [Grdient Boosting Tree](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/gradient_boosting.py)
+- [Gradient Boosting Tree](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/gradient_boosting.py)
 - [Logistic Regression](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/logistic_regression.py)
-- [Linear Regression](https://github.com/eriklindernoren/Machine-learning-scratch/blob/master/mlfromscratch/supervised_learning/regression.py)
-- [Elastic Net](https://github.com/eriklindernoren/Machine-learning-scratch/blob/master/mlfromscratch/supervised_learning/regression.py)
+- [Linear Regression](https://github.com/eriklindernoren/MLFromScratch/blob/master/mlfromscratch/supervised_learning/regression.py)
+- [Elastic Net](https://github.com/eriklindernoren/MLFromScratch/blob/master/mlfromscratch/supervised_learning/regression.py)
 - [Ridge Regression](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/regression.py)
 - [Lasso Regression](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/regression.py)
 - [Support Vector Machine](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/support_vector_machine.py)
