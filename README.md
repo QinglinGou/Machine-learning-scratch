@@ -7,20 +7,20 @@ efficient as possible
 
 ## Supervised Learning
 
-- [Decision Tree](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/supervised_learning/decision_tree.py)
-- [Grdient Boosting Tree](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/supervised_learning/gradient_boosting.py)
-- [Logistic Regression](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/supervised_learning/logistic_regression.py)
-- [Linear Regression](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/supervised_learning/regression.py)
-- [Elastic Net](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/supervised_learning/regression.py)
-- [Ridge Regression](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/supervised_learning/regression.py)
-- [Lasso Regression](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/supervised_learning/regression.py)
-- [Support Vector Machine](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/supervised_learning/support_vector_machine.py)
-- [Xgboost](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/supervised_learning/xgboost.py)
+- [Decision Tree](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/decision_tree.py)
+- [Grdient Boosting Tree](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/gradient_boosting.py)
+- [Logistic Regression](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/logistic_regression.py)
+- [Linear Regression](https://github.com/eriklindernoren/Machine-learning-scratch/blob/master/mlfromscratch/supervised_learning/regression.py)
+- [Elastic Net](https://github.com/eriklindernoren/Machine-learning-scratch/blob/master/mlfromscratch/supervised_learning/regression.py)
+- [Ridge Regression](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/regression.py)
+- [Lasso Regression](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/regression.py)
+- [Support Vector Machine](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/support_vector_machine.py)
+- [Xgboost](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/supervised_learning/xgboost.py)
 
 ## Deep Learning
 
-- [Neural Network](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/deep_learning/neural_network.py)
-- [Layers](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/deep_learning/layers.py)
+- [Neural Network](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/deep_learning/neural_network.py)
+- [Layers](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/deep_learning/layers.py)
 
   * Activation Layer
   * Batch Normalization Layer
@@ -30,14 +30,14 @@ efficient as possible
   * RNN Layer: many-to-one
   * LSTM ayer: many-to-one
   * Bidirectional LSTM
-- [Loss Functions](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/deep_learning/loss_functions.py)
+- [Loss Functions](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/deep_learning/loss_functions.py)
 
   * Cross Entropy
   * Loss for VAE
   * BinomialDeviance
   * Noise Contrastive Estimation
 
-- [Optimizer](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/deep_learning/optimizers.py)
+- [Optimizer](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/deep_learning/optimizers.py)
 
   * SGD with momentum
   * RMSprop
@@ -45,17 +45,17 @@ efficient as possible
   * Adadelta
   * Adam
 
-- [Schedulers](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/deep_learning/schedulers.py)
+- [Schedulers](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/deep_learning/schedulers.py)
   * CosineAnnealingLR
   * CosineAnnealingWarmRestarts
 
 - Models
-  * [word2vec](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/deep_learning/models/word2vec.py)
+  * [word2vec](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/deep_learning/models/word2vec.py)
   * LSTM many to many
 
 ## Unsupervised Learning
 
-- [Generative Adversarial Network](https://github.com/QinglinGou/MLFromScratch/blob/master/numpy_ml/unsupervised_learning/generative_adversarial_network.py)
+- [Generative Adversarial Network](https://github.com/QinglinGou/Machine-learning-scratch/blob/master/numpy_ml/unsupervised_learning/generative_adversarial_network.py)
 
 # Examples
 
