@@ -96,4 +96,4 @@ efficient as possible
 
 The warning message is due to [the bug of Tensorflow](https://github.com/tensorflow/tensorflow/issues/31412)
 
-[unit test page](https://github.com/Superhzf/MLFromScratch/tree/master/unit_tests)
+[unit test page](https://github.com/QinglinGou/Machine-learning-scratch/tree/master/unit_tests)
